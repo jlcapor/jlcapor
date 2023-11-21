@@ -5,7 +5,8 @@ Tecnólogo en Sistemas de la Información, un apasionado por la tecnología, el 
 
 
 ## 🧐 ¿Que hago?
-Actualmente me dedico a realizar proyectos que contribuyan significativamente al desarrollo de mis habilidades como programador. Mi enfoque se centra principalmente en la aplicación práctica de diversas tecnologías del lado del Frontend
+Actualmente me dedico a realizar proyectos que contribuyan significativamente al desarrollo de mis habilidades como programador. Mi enfoque se centra principalmente en la aplicación práctica de algunas tecnologías del lado del Frontend
+
 
 ## 👯 Communities
 - Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
