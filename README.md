@@ -11,31 +11,23 @@ Actualmente me dedico a realizar proyectos que contribuyan significativamente al
 ## 👯 ¿Que tecnologias uso?
 Mediante la participación en proyectos académicos reales, ya sea de forma individual o en equipo, he adquirido conocimientos significativos en las siguientes tecnologías:
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br>
-</p>
-
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **Angular, React, VanillaJS**
-- Backend development using **ASP.NET Core, Node, Express**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **Cassandra / DataStax**
-- Robust full-stack system design implementation
-- Desktop application development using **UWP, WPF or WinForms**
-- Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Project Management and CD/CI using **Azure DevOps**
+- JavaScript
+- ReactJs 
+- Next.js 
+- Redux.js 
+- HTML
+- CSS 
+- Tailwindcss 
+- NodeJs
+- Express 
+- PostgreSQL
+- Sequelize ORM 
+- Prisma ORM 
+- Git
 
 ## 📫 Contact Me
-- Twitter - [@gauravc12](https://twitter.com/gauravc12)
-- LinkedIn - [Gaurav Chouhan](https://in.linkedin.com/in/gauravc12)
-- Blog - [GC Codes](https://gc-codes.com)
+- LinkedIn - [Jose Luis Capote](https://www.linkedin.com/in/jose-luis-capote/)
+
 
 ---
 ⭐️ From [gc-codes](https://github.com/gc-codes)
