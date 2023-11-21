@@ -31,9 +31,11 @@ Mediante la participación en proyectos académicos reales, ya sea de forma indi
 - Prisma ORM 
 - Git
 
-## 📫 Contact Me
+## 📫 ¿Quieres saber más sobre mí? ¡Contáctame!
 - LinkedIn - [Jose Luis Capote](https://www.linkedin.com/in/jose-luis-capote/)
-
+- Celular -  3234349129
+- e-mail - capoterojas123@gmail.com
+- GitHub -  https://github.com/jlcapor
 
 
 ---
