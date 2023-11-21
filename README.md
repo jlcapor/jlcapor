@@ -1,6 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
 # Jose Luis Capote 😃
 Tecnólogo en Sistemas de la Información, un apasionado por la tecnología, el dibujo y el futbol. Mi naturaleza curiosa y mi deseo constante de aprender me han llevado a explorar el emocionante campo de las tecnologías de la información. Siempre estoy buscando formas de mejorar y aprender más sobre las últimas tecnologías y tendencias en el mundo del desarrollo web. 
 
