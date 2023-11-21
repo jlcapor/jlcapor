@@ -8,11 +8,18 @@ Tecnólogo en Sistemas de la Información, un apasionado por la tecnología, el 
 Actualmente me dedico a realizar proyectos que contribuyan significativamente al desarrollo de mis habilidades como programador. Mi enfoque se centra principalmente en la aplicación práctica de algunas tecnologías del lado del Frontend
 
 
-## 👯 Communities
-- Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
-- Co-organizer at [AllAboutWeb](https://twitter.com/allaboutweb) (A web technology centric meetup group)
-- Co-organizer at [Indore Technical Community](https://twitter.com/indoretechcom) (A local meetup group talking coding and technologies in trend)
-- Co-organizer of Hour of Code, Indore - One of the largest Hour of Code execution in India
+## 👯 ¿Que tecnologias uso?
+Mediante la participación en proyectos académicos reales, ya sea de forma individual o en equipo, he adquirido conocimientos significativos en las siguientes tecnologías:
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<br>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<br>
+</p>
 
 ## ⚡ Technologies
 Talk to me about
