@@ -1,9 +1,10 @@
 
 
-#Jose Luis Capote 😃
-Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
+# Jose Luis Capote 😃
+Tecnólogo en Sistemas de la Información, un apasionado por la tecnología, el dibujo y el futbol. Mi naturaleza curiosa y mi deseo constante de aprender me han llevado a explorar el emocionante campo de las tecnologías de la información. Siempre estoy buscando formas de mejorar y aprender más sobre las últimas tecnologías y tendencias en el mundo del desarrollo web. 
 
-## 🧐 About
+
+## 🧐 ¿Que hago?
 Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
 
 ## 👯 Communities
