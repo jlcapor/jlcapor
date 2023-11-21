@@ -12,19 +12,20 @@ Actualmente me dedico a realizar proyectos que contribuyan significativamente al
 ## 👯 ¿Que tecnologias uso?
 Mediante la participación en proyectos académicos reales, ya sea de forma individual o en equipo, he adquirido conocimientos significativos en las siguientes tecnologías:
 
-- JavaScript
-- ReactJs 
-- Next.js 
-- Redux.js 
-- HTML
-- CSS 
-- Tailwindcss 
-- NodeJs
-- Express 
-- PostgreSQL
-- Sequelize ORM 
-- Prisma ORM 
-- Git
+- ### JavaScript
+- ### TypeScript
+- ### ReactJs 
+- ### Next.js 
+- ### Redux.js 
+- ### HTML
+- ### CSS 
+- ### Tailwindcss 
+- ### NodeJs
+- ### Express 
+- ### PostgreSQL
+- ### Sequelize ORM 
+- ### Prisma ORM 
+- ### Git
 
 ## 📫 ¿Quieres saber más sobre mí? ¡Contáctame!
 - LinkedIn - [Jose Luis Capote](https://www.linkedin.com/in/jose-luis-capote/)
