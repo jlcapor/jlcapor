@@ -1,6 +1,6 @@
-### Hola! Mi nombre es Jose Luis Capote 👋
 
-# Gaurav Chouhan 😃
+
+#Jose Luis Capote 😃
 Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
 
 ## 🧐 About
