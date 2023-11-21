@@ -10,8 +10,7 @@ Actualmente me dedico a realizar proyectos que contribuyan significativamente al
 
 
 ## 👯 ¿Que tecnologias uso?
-Mediante la participación en proyectos académicos reales, ya sea de forma individual o en equipo, he adquirido conocimientos significativos en las siguientes tecnologías:
-
+Mediante la participación en proyectos académicos reales, ya sea de forma individual o en equipo, he desarrollado un sólido conocimiento en las siguientes tecnologías:
 - ### JavaScript
 - ### TypeScript
 - ### ReactJs 
