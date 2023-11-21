@@ -35,8 +35,7 @@ Mediante la participación en proyectos académicos reales, ya sea de forma indi
 - LinkedIn - [Jose Luis Capote](https://www.linkedin.com/in/jose-luis-capote/)
 
 
----
-⭐️ From [gc-codes](https://github.com/gc-codes)
+
 ---
 <!--
 **jlcapor/jlcapor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
