@@ -5,7 +5,7 @@ Tecnólogo en Sistemas de la Información, un apasionado por la tecnología, el 
 
 
 ## 🧐 ¿Que hago?
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+Actualmente me dedico a realizar proyectos que contribuyan significativamente al desarrollo de mis habilidades como programador. Mi enfoque se centra principalmente en la aplicación práctica de diversas tecnologías del lado del Frontend
 
 ## 👯 Communities
 - Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
