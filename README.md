@@ -19,7 +19,8 @@ Mi experiencia en proyectos académicos, tanto individuales como en equipo, ha a
 ## Desarrollo Backend:
 - Node.js y Express para la construcción de servidores y APIs robustas.
 - Conexión a bases de datos relacionales, como PostgreSQL.
-- Implementación de modelos de datos con Sequelize ORM, Prisma ORM y JPA
+- Implementación de modelos de datos con Sequelize ORM, Prisma ORM
+- JPA (Java Persistence API) en entornos Java con Spring
 
 ## Control de Versiones:
 - Git para el seguimiento y control de versiones de los proyectos.
