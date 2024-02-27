@@ -9,7 +9,7 @@ Actualmente me dedico a realizar proyectos que contribuyan significativamente al
 
 
 ## 👯 ¿Que tecnologias uso?
-Mi experiencia en proyectos académicos, tanto individuales como en equipo, ha ampliado mi conocimiento en diversas tecnologías. Estas incluyen:
+Mi experiencia en proyectos, tanto individuales como en equipo, ha ampliado mi conocimiento en diversas tecnologías. Estas incluyen:
 ## Desarrollo Frontend:
 - JavaScript y TypeScript para la lógica del lado del cliente
 - React.js y Next.js para la construcción de interfaces dinámicas y eficientes.
