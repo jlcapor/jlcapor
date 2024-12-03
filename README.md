@@ -28,7 +28,7 @@ Mi experiencia en proyectos, tanto individuales como en equipo, ha ampliado mi c
 
 ## 📫 ¿Quieres saber más sobre mí? ¡Contáctame!
 - LinkedIn - [Jose Luis Capote](https://www.linkedin.com/in/jose-luis-capote/)
-- Celular -  3234349129
+- Celular -  +57 321 8680109
 - e-mail - capoterojas123@gmail.com
 - GitHub -  https://github.com/jlcapor
 
